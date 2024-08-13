@@ -1,5 +1,6 @@
 from PySide6.QtCore import QCoreApplication
 
+
 class Texts:
     @property
     def main_window_title(self):

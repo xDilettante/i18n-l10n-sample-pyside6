@@ -11,7 +11,7 @@
     <message>
         <location filename="../texts.py" line="13"/>
         <source>label_text</source>
-        <translation type="finished">Default. This is an example text that needs to be translated.</translation>
+        <translation type="finished">This is an example text that needs to be translated.</translation>
     </message>
 </context>
 </TS>
