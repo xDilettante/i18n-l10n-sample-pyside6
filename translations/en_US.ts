@@ -5,13 +5,13 @@
     <name>MainWindow</name>
     <message>
         <location filename="../texts.py" line="9"/>
-        <source>Default. Имя Моего Окна</source>
-        <translation type="unfinished">Default. My Window Name</translation>
+        <source>main_window_title</source>
+        <translation type="finished">My Window Name</translation>
     </message>
     <message>
         <location filename="../texts.py" line="13"/>
-        <source>Default. Это пример текста, который нужно перевести.</source>
-        <translation type="unfinished">Default. This is an example text that needs to be translated.</translation>
+        <source>label_text</source>
+        <translation type="finished">Default. This is an example text that needs to be translated.</translation>
     </message>
 </context>
 </TS>
