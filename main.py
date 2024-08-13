@@ -1,9 +1,10 @@
 import os
 import sys
 from PySide6.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QComboBox
-from PySide6.QtCore import QTranslator, QCoreApplication
+from PySide6.QtCore import QTranslator
 
 from texts import Texts
+
 
 class MainWindow(QWidget):
     def __init__(self):
